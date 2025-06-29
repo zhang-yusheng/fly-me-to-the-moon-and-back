@@ -4,13 +4,14 @@
 
 因为 pdf 过大，分为两个版本，81 MB 和 574 MB。
 
-81MB 版本下载链接：
+81MB 版本下载：
 
 -   [蓝奏云](https://timaab.lanzouu.com/iivWN2zudhqj)
 -   [百度网盘](https://pan.baidu.com/s/1Wd6r1QnYT0KGVIMjj5J72A?pwd=8yyu)
--   [Git 仓库](./想你到月球-81MB.pdf)
+-   [GitHub](https://github.com/zhang-yusheng/fly-me-to-the-moon-and-back/blob/main/%E6%83%B3%E4%BD%A0%E5%88%B0%E6%9C%88%E7%90%83-81MB.pdf)
+-   [Gitee](https://gitee.com/vsbug/fly-me-to-the-moon-and-back/raw/main/%E6%83%B3%E4%BD%A0%E5%88%B0%E6%9C%88%E7%90%83-81MB.pdf)
 
-574 MB 版本下载链接：
+574 MB 版本下载：
 
 -   [百度网盘](https://pan.baidu.com/s/1_kMM0Sc1S75wZrFH0kNwFg?pwd=cd7r)
--   [Git 仓库](./想你到月球-574MB.zip)
+-   [GitHub](https://media.githubusercontent.com/media/zhang-yusheng/fly-me-to-the-moon-and-back/refs/heads/main/%E6%83%B3%E4%BD%A0%E5%88%B0%E6%9C%88%E7%90%83-574MB.pdf?download=true)
